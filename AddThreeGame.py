@@ -5,7 +5,7 @@ class AddThreeGame:
     Player "first" has the first turn."""
 
     def __init__(self):
-        """Intialize data members."""
+        """Initialize data members."""
         self.__player_1 = 0
         self.__player_2 = 0
         self.__already_played = []
